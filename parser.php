@@ -1,4 +1,5 @@
 <?php
+// @url: https://github.com/BaseMax/LoxblogSubdomains
 $input=file_get_contents("subs.txt");
 // persiantooniha.loxblog.com
 preg_match_all('/([^\.\s]+)\.loxblog\.com/si', $input, $domains);
