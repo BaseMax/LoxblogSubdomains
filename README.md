@@ -13,4 +13,3 @@ $ php parser.php > subdomains.txt
 ## Alternatives way to get subdomains
 
 - https://spyse.com/
-- ...
